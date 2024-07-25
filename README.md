@@ -6,5 +6,5 @@ This code mainly realizes the vertical and horizontal distribution of cotton pla
 
 The rest of the related environment configurations are in their own folders.
 
-Datasets
+Datasets:
 All data can be accessed on figshare:https://figshare.com/account/home#/projects/214534. Please refresh the page if you cannot see the datasets.
