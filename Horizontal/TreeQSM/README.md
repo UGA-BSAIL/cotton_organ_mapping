@@ -13,7 +13,7 @@
 TreeQSM is a modelling method that reconstructs quantitative structure models (QSMs) for trees from point clouds. A QSM consists of a hierarchical collection of cylinders estimating topological, geometrical and volumetric details of the woody structure of the tree. The input point cloud, which is usually produced by a terrestrial laser scanner, must contain only one tree, which is intended to be modelled, but the point cloud may contain also some points from the ground and understory. Moreover, the point cloud should not contain significant amount of noise or points from leaves as these are interpreted as points from woody parts of the tree and can therefore lead to erroneous results. Much more details of the method and QSMs can be found from the manual that is part of the code distribution.
 
 The TreeQSM is written in Matlab.
-1. For treeQSM instance segmentation, please refer to code: https://github.com/InverseTampere/TreeQSM
+--For treeQSM instance segmentation, please refer to code: https://github.com/InverseTampere/TreeQSM
 
 Here is a quick guide for testing the code and starting its use. However, it is highly recommended that after the testing the user reads the manual for more information how to best use the code.  
 
@@ -30,7 +30,7 @@ Here is a quick guide for testing the code and starting its use. However, it is 
 2) treeqsm: implement instance segmentation (Put your data on 'data' folder)
 3) individual_branch: save the instance segmentation results on segment_data folder
 
-2. For cotton boll horizontal distribution (distribution folder)
+--For cotton boll horizontal distribution (distribution folder)
 
 Horizontal.m: input your point cloud name
 
